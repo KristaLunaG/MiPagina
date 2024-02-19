@@ -1,0 +1,18 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.contenedor img {
+    max-width: 200px;
+    height: auto;
+    margin: 10px;
+}
+
+.imgformato1 {
+    display: block;
+    max-width: 20%;
+    height: auto;
+}
