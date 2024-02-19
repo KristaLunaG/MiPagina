@@ -17,9 +17,26 @@
     height: auto;
 }
 
+.imgformato2 {
+    display: block;
+    margin: 0 auto;
+    max-width: 16%;
+    height: auto;
+}
+
 .imgfotos {
     display: block;
     margin: 0 auto;
     max-width: 20%;
     height: auto;
+}
+
+.tablas {
+    width: 100%;
+}
+
+.tablas th, .tablas td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
 }
